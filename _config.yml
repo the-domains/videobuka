@@ -1,0 +1,28 @@
+name: videobuka
+favicon: null
+layout_spectrum: 0.510703090345487
+typography_spectrum: 0.9037714905571193
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9840944970492274
+  lightness: 0.30268346844241023
+  saturation: 0.47106812661513686
+  rhythmicContrast: 0.18828472518362105
+purpose: []
